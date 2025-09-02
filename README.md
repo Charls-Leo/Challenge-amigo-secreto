@@ -32,7 +32,7 @@ Esta es la solución a un desafío propuesto en el programa de Oracle One Genera
 
 ## Instalación y puesta en marcha
 
-### Opción A: Clonar el repositorio (recomendada)
+### Opción A: Clonar el repositorio
 
 ```bash
 # 1) Clonar
@@ -63,7 +63,7 @@ Juego-Amigo-Secreto/
 ---
 
 
-## Cómo usar la aplicación
+## ¿Cómo usar la aplicación?
 
 - **Agregar nombre**
 Escribe un nombre en el campo de texto y presiona Agregar.
